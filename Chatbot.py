@@ -54,7 +54,7 @@ def takecommand(): # take command to microphone from user
 
 
 if __name__ == "__main__":
-    speak('my boss name is hirdesh')
+    speak('my boss name is Sonam Jain')
     wishme()
     while True:
 #    if 1:
